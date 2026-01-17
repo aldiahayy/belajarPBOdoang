@@ -63,5 +63,4 @@ public class Barang {
     public int getStokBarang(){
         return this.stokBarang;
     }
-
 }
