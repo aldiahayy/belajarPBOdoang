@@ -1,0 +1,8 @@
+1. class dan object
+2. propery dan method
+3. constuctor
+4. method setter dan getter
+5. inheritance
+6. overriding dan overloading
+7. encapsulation
+8. class abstract
